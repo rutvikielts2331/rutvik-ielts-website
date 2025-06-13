@@ -1,4 +1,4 @@
-# rutvik-ielts-website
+# Rutvik-IELTS-Website
 Official website for Rutvik IELTS YouTube channel
 import React from "react"; import { Card, CardContent } from "@/components/ui/card"; import { Button } from "@/components/ui/button"; import { Youtube } from "lucide-react"; import { motion } from "framer-motion";
 
